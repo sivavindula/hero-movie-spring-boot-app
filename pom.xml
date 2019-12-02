@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vindula</groupId>
-	<artifactId>hero-movies-app</artifactId>
+	<artifactId>hero-movie-spring-boot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hero-movies-app</name>
+	<name>hero-movie-spring-boot-app</name>
 	<description>heros acted movies application using Spring Boot</description>
 
 	<properties>
